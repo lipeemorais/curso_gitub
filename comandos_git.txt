@@ -1,0 +1,16 @@
+COMANDOS GIT:
+
+Definir nome de usuário > git config user.name "John Doe"
+
+Definir email > git config user.email johndoe@example.com
+
+Verificando status > git status
+
+Iniciar um repositório > git init
+
+Adicionar (UM) arquivo para ser monitorado > git add <nome_do_arquivo>
+
+Adicionar todos os arquivos para serem monitorados > git add .
+
+Commitar arquivos > git commit <nome_do_arquivo> -m "mensagem"
+
