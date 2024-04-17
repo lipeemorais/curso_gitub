@@ -14,3 +14,8 @@ Adicionar todos os arquivos para serem monitorados > git add .
 
 Commitar arquivos > git commit <nome_do_arquivo> -m "mensagem"
 
+Criando a brach (main) > git branch -M main
+
+Adicionando git ao repositório > git remote add origin https://github.com/lipeemorais/curso_gitub.git
+
+Enviando ao repositório > git push -u origin main
