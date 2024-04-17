@@ -21,3 +21,5 @@ Adicionando git ao repositório > git remote add origin https://github.com/lipee
 Enviando ao repositório > git push -u origin main
 
 Buscar alterações > git pull
+
+Clonar repositório > git clone <caminho_do_repositorio> (dentro do cmd)
