@@ -19,3 +19,5 @@ Criando a brach (main) > git branch -M main
 Adicionando git ao repositório > git remote add origin https://github.com/lipeemorais/curso_gitub.git
 
 Enviando ao repositório > git push -u origin main
+
+Buscar alterações > git pull
