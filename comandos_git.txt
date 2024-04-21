@@ -27,3 +27,6 @@ Clonar repositório > {git clone <caminho_do_repositorio> .} (dentro do cmd)
 Acessando histórico de commit's > git log
 
 Retroceder arquivo para status anterios (rollback) > git checkout <nome_do_arquivo>
+
+Ignorar arquivos e não enviar ao repositório > criar um arquivo (.gitignore) e colocar os arquivos que deseja ignorar
+
