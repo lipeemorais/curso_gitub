@@ -30,4 +30,4 @@ Retroceder arquivo para status anterios (rollback) > git checkout <nome_do_arqui
 
 Ignorar arquivos e não enviar ao repositório > criar um arquivo (.gitignore) e colocar os arquivos que deseja ignorar
 
-Resetar arquivos para estado que estavam > git reset --hard origin(nome_da_branch)
+Resetar para o ultimo commit feito > git reset --hard origin(nome_da_branch)
